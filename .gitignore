@@ -1,0 +1,5 @@
+# 编译生成文件
+codedocker.exe
+codedocker
+setting/
+docker/Dockerfile.tar.gz
